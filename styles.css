@@ -112,11 +112,13 @@ body {
 .options-container {
     display: flex;
     flex-direction: column;
+    align-items: center;
     width: 100%;
 }
 
 .option {
     margin: 5px 0;
+    width: 90%;
 }
 
 .result-texts {
